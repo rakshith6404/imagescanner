@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018501130896",
+    "project_id": "imagescanner-9a8c8",
+    "storage_bucket": "imagescanner-9a8c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018501130896:android:d24724cff5090dfd270615",
+        "android_client_info": {
+          "package_name": "com.example.imagescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018501130896-vq63plottadd2l64blio5d2ro4uj5hcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqygzCna9P67FlZ-8ji5k9i1jXXAE1_Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018501130896-vq63plottadd2l64blio5d2ro4uj5hcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
